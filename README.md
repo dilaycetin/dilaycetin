@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm !  
+# 🌟 Hi, I'm Dilay!  
 
 Welcome to My GitHub Profile 👋 I'm a passionate 3rd year Computer Engineering student from Turkiye.  
 
@@ -16,12 +16,12 @@ Here are some of the highlights from my repositories:
 ### 🔹 **Photography Portfolio**  
 **Description:** A visually appealing portfolio to showcase stunning photography.  
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-**Demo:** [Live Demo](#) 
+**Demo:** [Live Demo]([#](https://dilaycetin.github.io/_photography-portfolio/)) 
 
 ### 🔹 **Notes App**  
 **Description:**  A simple and intuitive notes app for creating, editing, and organizing notes. Includes features like searching and categorizing.
 **Tech Stack:** HTML, CSS, JavaScript
-**Demo:** [Live Demo](#) 
+**Demo:** [Live Demo]([#](https://dilaycetin.github.io/my-notes-app/)) 
 
 ---
 
