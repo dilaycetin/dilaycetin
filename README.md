@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilay Çetin</h1>
 <h3 align="center">A passionate front-end developer from Turkiye</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="dilaycetin" /> </p>
+<p align="left"> <img src="[https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="dilaycetin](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" /> </p>
 
 - 📫 How to reach me **dilayycetin@gmail.com**
 
