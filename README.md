@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilay Çetin</h1>
 <h3 align="center">A passionate front-end developer from Turkiye</h3>
-<p align="center"> <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="dilaycetin";  /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="dilaycetin"; width="400px";  /> </p>
 
 ## 🚀 Project Demos  
 
