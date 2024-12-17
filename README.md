@@ -37,6 +37,7 @@ Here are some of the highlights from my repositories:
 **Demo:** [Live Demo](https://dilaycetin.github.io/my-notes-app/)
 
 ---
+
 ## 📈 GitHub Stats  
 
 <div align="center">
