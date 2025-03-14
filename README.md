@@ -46,5 +46,3 @@ Here are some of the highlights from my repositories:
 🌸 **Twitter:** [@its_dilay](https://x.com/its_dilay) <br>
 🌷 **Mail:** dilayycetinn@gmail.com
 
-
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate! 😊  
