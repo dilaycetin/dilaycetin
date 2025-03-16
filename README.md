@@ -38,6 +38,8 @@ Here are some of the highlights from my repositories:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilaycetin&show_icons=true&theme=radical" alt="Dilay's GitHub Stats" style="width: 50%; " />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaycetin&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaycetin&label=Profile%20views&color=bf70ff&style=flat" alt="dilaycetin" /> </p>
+
 </div>
 
 ## 💬 Let's Connect  
