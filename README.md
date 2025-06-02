@@ -45,6 +45,5 @@ Here are some of the highlights from my repositories:
 ## 💬 Let's Connect  
 
 🌺 **LinkedIn:** [Dilay Çetin](https://www.linkedin.com/in/dilay-çetin-67b10a246/)  
-🌸 **Twitter:** [@its_dilay](https://x.com/its_dilay) <br>
 🌷 **Mail:** dilayycetinn@gmail.com
 
