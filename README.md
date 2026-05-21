@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilay Çetin</h1>
-<h3 align="center">Frontend Developer • React Native Enthusiast • Sustainability Focused</h3>
+<h3 align="center">Frontend Developer Enthusiast 
 
 ---
 
