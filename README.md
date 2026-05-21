@@ -19,7 +19,7 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 
 ## 💻 Tech Stack
 
-## Programming Languages
+### Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
