@@ -76,4 +76,3 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 
 ## 📊 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaycetin&label=Profile%20views&color=0e75b6&style=flat" alt="dilaycetin" /> </p>
-s
