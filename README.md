@@ -19,6 +19,17 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 
 ## 💻 Tech Stack
 
+## Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/>
+</p>
+
 ### Mobile & Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
@@ -66,7 +77,4 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilaycetin&show_icons=true&theme=default" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilaycetin&show_icons=true&locale=en&layout=compact" alt="dilaycetin" /></p>
