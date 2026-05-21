@@ -21,8 +21,6 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 
 ## Programming Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
@@ -77,4 +75,5 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 ---
 
 ## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilaycetin&show_icons=true&locale=en&layout=compact" alt="dilaycetin" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaycetin&label=Profile%20views&color=0e75b6&style=flat" alt="dilaycetin" /> </p>
+s
