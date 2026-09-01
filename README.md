@@ -17,8 +17,12 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 
 ---
 
-## 🌱 Some Projects of Mine
+## Some Simple Projects of Mine
+**Simple Notes Website**
 🔗 https://dilaycetin.github.io/my-notes-app/
+
+**A Simple Portfolio of My Photography**
+🔗 https://dilaycetin.github.io/_photography-portfolio/
 
 ---
 
