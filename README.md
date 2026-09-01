@@ -17,6 +17,11 @@ https://github.com/dilaycetin/carbon-tracking-app-gamification
 
 ---
 
+## 🌱 Some Projects of Mine
+🔗 https://dilaycetin.github.io/my-notes-app/
+
+---
+
 ## 💻 Tech Stack
 
 ### Programming Languages
